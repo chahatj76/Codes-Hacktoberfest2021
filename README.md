@@ -2,7 +2,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 # <div align="center">🖥️H4CKT0B3RF3ST 2021💻</div>
-### <div align="center">Not Accepting More Contributions. Already Recieved the Contribution I Wanted For this Project,Thank You Hacktober Fest and People for Contributing int it.</div>
+### <div align="center">Not Accepting More Contributions. Already Recieved the Contribution I Wanted For this Project,Thank You Hacktober Fest and People for Contributing in it.</div>
 
 ### <div align="center">If you want to learn How to use Github , You can Practice by Making Pull Request Here, but No More Request would be Merged.</div>
 ### <div align="center">This repo's main purpose is to help newbies👶 to complete the Hacktoberfest Challenge.</div>
